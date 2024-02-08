@@ -18,9 +18,9 @@ Suggested steps to completing this assignment
 3. Now finish the program's `setup()` and `draw()`
 4. Add one `Particle` variable, and make sure you can see it move
 5. Add an array list of type `Particle` and loop through it to move and show all the Particles.
-9. Create an OddballParticle class that `extends` the Particle class.
-12. Change a random element in the array to a `OddballParticle` instead of a `Particle`
-13. Run your program. Make sure you can see the Oddball.
-15. Submit the url of your working GitHub webpage to google classroom
-Extensions: Have a fun and be creative. If you have extra time you may want to modify your program and add extra features and other types and arrangements of particles. 
+6. Create an OddballParticle class that `extends` the Particle class.
+7. Change a random element in the array to a `OddballParticle` instead of a `Particle`
+8. Run your program. Make sure you can see the Oddball.
+9. Submit the url of your working GitHub webpage to google classroom
+10. Extensions: Do this extension to reach 100% - increase brightness of `Particle()` by adding a new property `alpha`. This property needs to be modified based on its distance from the center of the Processing canvas. 
 
